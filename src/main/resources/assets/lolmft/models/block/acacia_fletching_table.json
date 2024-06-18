@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "down": "minecraft:block/acacia_planks",
+        "east": "lolmft:block/acacia_fletching_table_side",
+        "north": "lolmft:block/acacia_fletching_table_front",
+        "particle": "lolmft:block/acacia_fletching_table_front",
+        "south": "lolmft:block/acacia_fletching_table_front",
+        "up": "lolmft:block/acacia_fletching_table_top",
+        "west": "lolmft:block/acacia_fletching_table_side"
+    }
+}
